@@ -30,5 +30,5 @@ class Yandex:
 if __name__ == '__main__':
     
     ya = Yandex()
-    #ya.create_new_folder()
+    ya.create_new_folder()
     ya.delete_folder()
